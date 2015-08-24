@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ohms Law</string>
+
+    <color name="background">#bec0bd</color>
+    <string name="action_settings">Settings</string>
+    <string name="ohm_triangle_image">ohm_triangle</string>
+    <string name="voltage_label">V</string>
+    <string name="res_label">R</string>
+    <string name="current_label">I</string>
+</resources>
